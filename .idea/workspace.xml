@@ -2,7 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17230444-82b5-441d-80e6-c9cf67ef6ee3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/data/test-cases/ffa758cc2cbb7ba6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/reports/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/results/85a0cdea-2d61-42a5-9452-d219567750ae-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/results/94290145-280e-4c2e-91e7-259a229be82b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure/results/e31c67e1-f9ec-4318-9779-1b9f4cccb321-result.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

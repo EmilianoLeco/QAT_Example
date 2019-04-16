@@ -2,14 +2,14 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "run a simple test",
-    "uid" : "ffa758cc2cbb7ba6",
+    "name" : "Login en la Pagina",
+    "uid" : "2395cf8312e430c0",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1555234425465,
-      "stop" : 1555234435936,
-      "duration" : 10471
+      "start" : 1555412090107,
+      "stop" : 1555412113798,
+      "duration" : 23691
     },
     "flaky" : false,
     "newFailed" : false,

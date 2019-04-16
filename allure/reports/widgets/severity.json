@@ -1,10 +1,10 @@
 [ {
-  "uid" : "ffa758cc2cbb7ba6",
-  "name" : "run a simple test",
+  "uid" : "2395cf8312e430c0",
+  "name" : "Login en la Pagina",
   "time" : {
-    "start" : 1555234425465,
-    "stop" : 1555234435936,
-    "duration" : 10471
+    "start" : 1555412090107,
+    "stop" : 1555412113798,
+    "duration" : 23691
   },
   "status" : "passed",
   "severity" : "normal"
