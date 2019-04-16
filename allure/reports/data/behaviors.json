@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "showing off behave",
+    "children" : [ {
+      "name" : "run a simple test",
+      "uid" : "ffa758cc2cbb7ba6",
+      "parentUid" : "00575a0400f3d87bab1196cfdb0ed1fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1555234425465,
+        "stop" : 1555234435936,
+        "duration" : 10471
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "00575a0400f3d87bab1196cfdb0ed1fc"
+  } ]
+}
