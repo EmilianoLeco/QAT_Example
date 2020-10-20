@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Ejecutando las pruebas 
 
-_Los Tests se encuentran en la carpeta Automation_Moni\features_
+_Los Tests se encuentran en la carpeta QAT_Example\features_
 
 ### Ejecucion desde cmd 
 
