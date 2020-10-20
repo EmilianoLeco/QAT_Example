@@ -13,4 +13,4 @@ py==1.8.0
 selenium==3.11.0
 six==1.11.0
 unittest-xml-reporting==2.2.0
-urllib3==1.24.1
+urllib3
