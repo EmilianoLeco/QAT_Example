@@ -17,10 +17,10 @@ _Los Tests se encuentran en la carpeta Automation_Moni\features_
 
 ### Ejecucion desde cmd 
 
-_Nos posicionamos en la carpeta "Automation_Moni" y ejecutamos la siguiente linea_
+_Nos posicionamos en la carpeta "QAT_Example" y ejecutamos la siguiente linea_
 
 ```
-Ejemplo: python -m behave Automation_Moni\Login.feature
+Ejemplo: python -m behave QAT_Example\Login.feature
 ```
 
 ### ejecucion desde Pycharm 
@@ -32,7 +32,7 @@ _Es necesario configurar pycharm segun la imagen Config_Run.png_
 _Para Realizar reportes con allure es necesario agregar la carpeta que contiene el "allure.bat"
  (allure-commandline-2.10.0\allure-2.10.0\bin) en el path del sistema_
  
-_Nos posicionamos en la carpeta "Automation_Moni" y ejecutamos la siguiente linea_
+_Nos posicionamos en la carpeta "QAT_Example" y ejecutamos la siguiente linea_
 
 ```
 behave -f allure_behave.formatter:AllureFormatter -o allure/results ./features\Login.feature
