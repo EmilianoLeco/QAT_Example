@@ -1,6 +1,6 @@
 allure-behave==2.6.2
 behave==1.2.6
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 gherkin-official==4.1.3
 idna==2.8
